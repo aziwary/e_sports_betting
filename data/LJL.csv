@@ -1,0 +1,49 @@
+,date,time,team1,odds1,team2,odds2,league
+0,2023-04-01,11:00,Fukuoka SoftBank Hawks,1.05,Axiz,10.00,LJL
+1,2023-03-26,13:00,Crest Gaming Act,13.00,Sengoku Gaming,1.04,LJL
+2,2023-03-26,10:00,Axiz,11.00,DetonatioN FocusMe,1.06,LJL
+3,2023-03-25,13:00,FENNEL,1.05,V3 Esports,10.00,LJL
+4,2023-03-25,10:00,Fukuoka SoftBank Hawks,1.40,Burning Core,3.14,LJL
+5,2023-03-24,13:00,Crest Gaming Act,2.04,Axiz,1.83,LJL
+6,2023-03-24,10:05,Burning Core,1.15,V3 Esports,6.65,LJL
+7,2023-03-21,13:00,Sengoku Gaming,1.40,Fukuoka SoftBank Hawks,3.52,LJL
+8,2023-03-21,10:00,FENNEL,4.86,DetonatioN FocusMe,1.21,LJL
+9,2023-03-19,12:00,V3 Esports,34.00,Sengoku Gaming,1.02,LJL
+10,2023-03-19,10:00,DetonatioN FocusMe,1.11,Burning Core,7.74,LJL
+11,2023-03-18,13:00,Fukuoka SoftBank Hawks,1.10,Axiz,6.65,LJL
+12,2023-03-18,10:00,FENNEL,1.29,Crest Gaming Act,4.00,LJL
+13,2023-03-17,13:00,V3 Esports,6.63,Axiz,1.21,LJL
+14,2023-03-17,10:00,Crest Gaming Act,2.30,Burning Core,1.67,LJL
+15,2023-03-12,13:40,Fukuoka SoftBank Hawks,1.34,FENNEL,3.55,LJL
+16,2023-03-12,10:10,Sengoku Gaming,1.85,DetonatioN FocusMe,2.10,LJL
+17,2023-03-11,13:25,Fukuoka SoftBank Hawks,1.17,Crest Gaming Act,6.65,LJL
+18,2023-03-11,10:05,FENNEL,1.24,Axiz,5.53,LJL
+19,2023-03-10,13:00,V3 Esports,18.00,DetonatioN FocusMe,1.02,LJL
+20,2023-03-10,10:00,Sengoku Gaming,1.16,Burning Core,6.79,LJL
+21,2023-03-05,12:45,DetonatioN FocusMe,1.12,Crest Gaming Act,8.91,LJL
+22,2023-03-05,10:00,V3 Esports,34.00,Fukuoka SoftBank Hawks,1.03,LJL
+23,2023-03-04,13:00,Burning Core,5.00,FENNEL,1.26,LJL
+24,2023-03-04,10:00,Axiz,15.00,Sengoku Gaming,1.04,LJL
+25,2023-03-03,12:45,Fukuoka SoftBank Hawks,2.10,DetonatioN FocusMe,1.83,LJL
+26,2023-03-03,10:10,Burning Core,2.10,Axiz,1.90,LJL
+27,2023-02-26,13:15,V3 Esports,6.65,Crest Gaming Act,1.17,LJL
+28,2023-02-26,10:00,Sengoku Gaming,1.24,FENNEL,4.87,LJL
+29,2023-02-25,13:55,Crest Gaming Act,1.46,Axiz,2.85,LJL
+30,2023-02-25,10:00,FENNEL,3.30,DetonatioN FocusMe,1.45,LJL
+31,2023-02-24,13:00,Sengoku Gaming,1.47,Fukuoka SoftBank Hawks,3.20,LJL
+32,2023-02-24,10:00,V3 Esports,5.50,Burning Core,1.18,LJL
+33,2023-02-23,13:00,DetonatioN FocusMe,1.05,Axiz,10.61,LJL
+34,2023-02-23,10:00,Fukuoka SoftBank Hawks,1.13,Burning Core,7.00,LJL
+35,2023-02-19,13:00,V3 Esports,12.00,FENNEL,1.04,LJL
+36,2023-02-19,10:05,Sengoku Gaming,1.11,Crest Gaming Act,8.20,LJL
+37,2023-02-18,13:00,DetonatioN FocusMe,1.11,Burning Core,9.16,LJL
+38,2023-02-18,10:00,Fukuoka SoftBank Hawks,1.05,Axiz,12.50,LJL
+39,2023-02-17,13:35,V3 Esports,34.00,Sengoku Gaming,1.00,LJL
+40,2023-02-17,10:00,FENNEL,1.25,Crest Gaming Act,5.00,LJL
+41,2023-02-12,13:25,Axiz,2.38,Burning Core,1.70,LJL
+42,2023-02-12,10:00,FENNEL,5.46,Sengoku Gaming,1.21,LJL
+43,2023-02-11,13:00,Fukuoka SoftBank Hawks,2.25,DetonatioN FocusMe,1.70,LJL
+44,2023-02-11,10:00,V3 Esports,6.65,Crest Gaming Act,1.12,LJL
+45,2023-02-10,12:50,Burning Core,13.85,Sengoku Gaming,1.15,LJL
+46,2023-02-10,10:10,Axiz,5.00,FENNEL,1.27,LJL
+47,2023-02-05,13:00,DetonatioN FocusMe,1.04,V3 Esports,16.91,LJL

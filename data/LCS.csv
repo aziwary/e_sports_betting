@@ -1,0 +1,50 @@
+,date,time,team1,odds1,team2,odds2,league
+0,2023-03-31,23:00,Golden Guardians,3.63,Evil Geniuses,1.40,LCS
+1,2023-03-30,23:00,Cloud9,1.85,FlyQuest eSports,2.13,LCS
+2,2023-03-26,23:00,Counter Logic Gaming,2.60,Evil Geniuses,1.91,LCS
+3,2023-03-25,23:00,100 Thieves,1.70,Golden Guardians,2.45,LCS
+4,2023-03-24,23:05,Cloud9,1.25,Counter Logic Gaming,5.00,LCS
+5,2023-03-23,23:00,FlyQuest eSports,1.45,100 Thieves,3.25,LCS
+6,2023-03-18,03:00,Immortals,3.56,100 Thieves,1.38,LCS
+7,2023-03-18,02:00,Dignitas,3.16,Golden Guardians,1.49,LCS
+8,2023-03-18,01:00,Team Liquid,2.38,Evil Geniuses,1.79,LCS
+9,2023-03-18,00:00,Team SoloMid,3.88,FlyQuest eSports,1.36,LCS
+10,2023-03-17,23:00,Counter Logic Gaming,3.25,Cloud9,1.42,LCS
+11,2023-03-17,03:00,FlyQuest eSports,1.55,Golden Guardians,2.78,LCS
+12,2023-03-17,02:00,Immortals,6.00,Cloud9,1.17,LCS
+13,2023-03-17,01:00,Counter Logic Gaming,2.47,Team Liquid,1.65,LCS
+14,2023-03-17,00:05,Team SoloMid,1.63,Dignitas,2.70,LCS
+15,2023-03-16,23:00,Evil Geniuses,1.65,100 Thieves,2.49,LCS
+16,2023-03-16,03:00,Dignitas,3.46,Team Liquid,1.41,LCS
+17,2023-03-16,02:00,Immortals,5.05,Evil Geniuses,1.22,LCS
+18,2023-03-16,01:00,Team SoloMid,2.40,100 Thieves,1.59,LCS
+19,2023-03-16,00:00,Counter Logic Gaming,2.50,Golden Guardians,1.64,LCS
+20,2023-03-15,23:00,FlyQuest eSports,2.10,Cloud9,1.96,LCS
+21,2023-03-11,04:00,Team SoloMid,2.51,Golden Guardians,1.63,LCS
+22,2023-03-11,03:00,Dignitas,3.03,100 Thieves,1.49,LCS
+23,2023-03-11,02:00,Counter Logic Gaming,2.50,Evil Geniuses,1.65,LCS
+24,2023-03-11,01:00,Immortals,6.15,FlyQuest eSports,1.17,LCS
+25,2023-03-11,00:00,Team Liquid,2.65,Cloud9,1.56,LCS
+26,2023-03-10,05:10,Counter Logic Gaming,1.43,Dignitas,3.32,LCS
+27,2023-03-10,04:15,Golden Guardians,1.54,100 Thieves,2.80,LCS
+28,2023-03-10,02:25,Evil Geniuses,2.10,Cloud9,1.90,LCS
+29,2023-03-10,01:20,Team SoloMid,1.49,Immortals,3.05,LCS
+30,2023-03-10,00:15,FlyQuest eSports,1.44,Team Liquid,3.46,LCS
+31,2023-03-04,04:00,Immortals,3.46,Golden Guardians,1.36,LCS
+32,2023-03-04,03:00,Team SoloMid,2.70,Team Liquid,1.54,LCS
+33,2023-03-04,02:00,FlyQuest eSports,1.53,Evil Geniuses,2.73,LCS
+34,2023-03-04,01:00,Dignitas,4.52,Cloud9,1.25,LCS
+35,2023-03-04,00:00,Counter Logic Gaming,1.95,100 Thieves,1.93,LCS
+36,2023-03-03,04:10,Immortals,2.34,Dignitas,1.67,LCS
+37,2023-03-03,03:10,Team Liquid,2.37,Golden Guardians,1.66,LCS
+38,2023-03-03,02:15,100 Thieves,2.71,Cloud9,1.55,LCS
+39,2023-03-03,01:00,Team SoloMid,3.21,Evil Geniuses,1.45,LCS
+40,2023-03-03,00:00,Counter Logic Gaming,3.88,FlyQuest eSports,1.30,LCS
+41,2023-02-25,04:00,Dignitas,7.10,FlyQuest eSports,1.17,LCS
+42,2023-02-25,03:00,Team Liquid,1.81,100 Thieves,2.20,LCS
+43,2023-02-25,02:00,Golden Guardians,2.45,Evil Geniuses,1.83,LCS
+44,2023-02-25,01:00,Immortals,2.99,Counter Logic Gaming,1.45,LCS
+45,2023-02-25,00:00,Team SoloMid,3.30,Cloud9,1.44,LCS
+46,2023-02-24,03:40,Dignitas,5.05,Evil Geniuses,1.22,LCS
+47,2023-02-24,02:40,Team SoloMid,1.86,Counter Logic Gaming,2.13,LCS
+48,2023-02-24,01:45,Golden Guardians,2.70,Cloud9,1.57,LCS
